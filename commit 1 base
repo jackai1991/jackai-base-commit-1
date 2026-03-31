@@ -1,0 +1,4 @@
+init: setup base chain project
+init: initial project structure
+init: bootstrap base dapp
+init: project scaffolding for base network
